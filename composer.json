@@ -1,0 +1,11 @@
+{
+    "name": "lapik/hexlet-php",
+    "description": "\"example package\"",
+    "authors": [
+        {
+            "name": "lapihin",
+            "email": "lapigin.andrei@yandex.ru"
+        }
+    ],
+    "require": {}
+}
