@@ -12,5 +12,7 @@
             "email": "lapihin.andrei@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^12.0"
+    }
 }
