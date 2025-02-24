@@ -2,9 +2,9 @@
     "name": "lapik/hexlet-php",
     "type": "project",
     "autoload": {
-        "psr-4": {
-            "Lapik\\HexletPhp\\": "src/"
-        }
+	"files": [
+	   "src/Runner.php"
+        ]
     },
     "authors": [
         {
