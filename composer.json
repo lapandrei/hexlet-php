@@ -1,0 +1,11 @@
+{
+    "name": "lapik/hexlet-php",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "lapihin.andrei",
+            "email": "lapihin.andrei@yandex.ru"
+        }
+    ],
+    "require": {}
+}
