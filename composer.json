@@ -1,5 +1,6 @@
 {
     "name": "lapik/hexlet-php",
+    "description": "Study project",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
@@ -7,5 +8,18 @@
             "email": "lapihin.andrei@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^12.16"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.13"
+    },
+    "scripts": {
+        "phpcs": "phpcs"
+    }
 }
