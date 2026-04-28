@@ -1,0 +1,12 @@
+{
+    "name": "lapandrei/hexlet-php",
+    "description": "Education project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "andrei.lapihin",
+            "email": "lapihin.andrei@yandex.ru"
+        }
+    ],
+    "require": {}
+}
