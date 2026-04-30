@@ -8,5 +8,18 @@
             "email": "lapihin.andrei@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^13.7"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^4.0"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
+    "scripts": {
+        "phpcs":"phpcs"
+    }
 }
